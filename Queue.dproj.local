@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.602,=D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.697,=D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.280,C:\Users\WORKSPACE\Documents\Embarcadero\Studio\Projects\Project16.dproj=D:\3 семестр\Сиаод ебанный\Списки\Queue.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.177,=D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.715,D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas=D:\3 семестр\Сиаод ебанный\Списки\BlockManager.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.449,D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas=D:\3 семестр\Сиаод ебанный\Списки\CPU.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.539,D:\3 семестр\Сиаод ебанный\Списки\Unit1.pas=D:\3 семестр\Сиаод ебанный\Списки\TaskClass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
